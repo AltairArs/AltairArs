@@ -11,8 +11,5 @@
 <!-- Сводка активности -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AltairArs&locale=ru)](https://git.io/streak-stats)
 
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs)](https://github.com/anuraghazra/github-readme-stats)
+<!--- Сводка языков -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs&layout=compact&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
