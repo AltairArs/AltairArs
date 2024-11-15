@@ -16,3 +16,7 @@
 
 <!-- Статистика -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AltairArs&theme=merko)
+
+<!-- Репозитории -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AltairArs&repo=Article-Management-System-v-L-1)](https://github.com/anuraghazra/github-readme-stats)
