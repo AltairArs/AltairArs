@@ -20,3 +20,4 @@
 <!-- Репозитории -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AltairArs&repo=Article-Management-System-v-L-1)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AltairArs&repo=Task-Management-System-v-L-1)](https://github.com/anuraghazra/github-readme-stats)
