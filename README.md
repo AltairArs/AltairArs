@@ -13,7 +13,7 @@
 
 <details>
   <summary>
-    <h4>Статистика</h4>
+    <big>Статистика</big>
   </summary>
 
 <br>
@@ -31,7 +31,7 @@
 
 <details>
   <summary>
-    <h4>Репозитории</h4>
+    <big>Репозитории</big>
   </summary>
 
 <br>
