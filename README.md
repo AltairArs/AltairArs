@@ -13,8 +13,10 @@
 
 <details>
   <summary>
-    Статистика
+    <h4>Статистика</h4>
   </summary>
+
+<br>
 
 <!-- Кубки -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=AltairArs&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
@@ -29,7 +31,7 @@
 
 <details>
   <summary>
-    Репозитории
+    <h4>Репозитории</h4>
   </summary>
 
 <br>
