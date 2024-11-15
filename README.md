@@ -11,7 +11,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AltairArs&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AltairArs&theme=merko&locale=ja)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AltairArs&theme=merko&locale=ru)](https://git.io/streak-stats)
 
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
