@@ -12,4 +12,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AltairArs&locale=ru)](https://git.io/streak-stats)
 
 <!--- Сводка языков -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs&layout=compact&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs&layout=compact&hide=roff&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
