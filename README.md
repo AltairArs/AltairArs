@@ -5,6 +5,12 @@
 <!-- Анимированное описание -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F7EC00&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
+---
+
+[![My Skills](https://skillicons.dev/icons?i=css,django,docker,git,github,graphql,html,idea,java,js,jquery,maven,mongodb,postgres,postman,py,rabbitmq,redis,sass,spring,sqlite,vue&perline=3)](https://skillicons.dev)
+
+---
+
 <details>
   <summary>
     Статистика
