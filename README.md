@@ -2,6 +2,11 @@
 
 ---
 
+<details>
+  <summary>
+    Статистика
+  </summary>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F7EC00&width=435&lines=computer+science+student)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AltairArs)](https://github.com/ryo-ma/github-profile-trophy)
@@ -13,3 +18,5 @@
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
