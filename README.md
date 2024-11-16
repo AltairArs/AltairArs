@@ -8,10 +8,10 @@
 ---
 <!-- Скилы -->
 [![My Skills](https://skillicons.dev/icons?i=css,django,docker,git,github,graphql,html,idea,java,js,jquery,maven,mongodb,postgres,postman,py,rabbitmq,redis,sass,spring,sqlite,vue&perline=5)](https://skillicons.dev)
-> Css, Django, Docker, Git, Github,
-> GraphQL, Html, Intellij Idea, Java, JavaScript,
-> JQuery, Maven, MongoDB, PostgreSQL, Postman,
-> Python, RabbitMQ, Redis, Sass, Spring,
+> Css, Django, Docker, Git, Github,\
+> GraphQL, Html, Intellij Idea, Java, JavaScript,\
+> JQuery, Maven, MongoDB, PostgreSQL, Postman,\
+> Python, RabbitMQ, Redis, Sass, Spring,\
 > Sqlite, Vue JS
 
 ---
