@@ -6,13 +6,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F7EC00&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ---
-<!-- Скилы -->
-[![My Skills](https://skillicons.dev/icons?i=css,django,docker,git,github,graphql,html,idea,java,js,jquery,maven,mongodb,postgres,postman,py,rabbitmq,redis,sass,spring,sqlite,vue&perline=5)](https://skillicons.dev)
-> Css, Django, Docker, Git, Github,\
-> GraphQL, Html, Intellij Idea, Java, JavaScript,\
-> JQuery, Maven, MongoDB, PostgreSQL, Postman,\
-> Python, RabbitMQ, Redis, Sass, Spring,\
-> Sqlite, Vue JS
+# 🔧 Languages
+<!--Языки-->
+[![My Skills](https://skillicons.dev/icons?i=css,html,java,js,py,sass,cs,c,cpp,graphql)](https://skillicons.dev)
+> CSS, HTML, Java, JavaScript, Python, Sass (Less), C#, C, C++, Graphql
+# 🔧 Databases
+<!--Базы данных-->
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,mysql)](https://skillicons.dev)
+> MongoDB, PostgreSQL, Redis, SQLite, MySQL
+# 🔧 IDEs
+<!--IDE-->
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm,visualstudio)](https://skillicons.dev)
+>Intellij Idea, VS Code, Pycharm, Visual Studio
+# 🔧 Frameworks
+<!--Фреймворки-->
+[![My Skills](https://skillicons.dev/icons?i=django,spring,flutter)](https://skillicons.dev)
+> Django, Spring Boot, Flutter (Flet on Python)
+# 🔧 Libraries
+<!--Библиотеки-->
+[![My Skills](https://skillicons.dev/icons?i=jquery,selenium)](https://skillicons.dev)
+> JQuery, Selenium (on Python)
+# 🔧 Tools
+<!--Инструменты-->
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,maven,postman,unreal)](https://skillicons.dev)
+> Docker, Git, Github, Maven, Postman, Unreal Engine
 
 ---
 
@@ -25,24 +42,7 @@
 
 <!-- Кубки -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=AltairArs&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- Сводка активности -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AltairArs&locale=ru)](https://git.io/streak-stats)
-<!--- Сводка языков -->
+<!--- Сводка языков 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairArs&layout=compact&hide=roff&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Статистика -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AltairArs&theme=merko)
-  
-</details>
-
-<details>
-  <summary>
-    <big>Репозитории</big>
-  </summary>
-
-<br>
-
-<!-- Репозитории -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AltairArs&repo=Article-Management-System-v-L-1)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AltairArs&repo=Task-Management-System-v-L-1)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
