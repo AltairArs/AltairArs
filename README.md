@@ -36,10 +36,8 @@
 > JQuery, Selenium (on Python), Bootstrap, Matplotlib, Numpy, Hibernate (with Spring), SQL Alchemy
 # 🔧 Tools
 <!--Инструменты-->
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,maven,postman,unrealengine,blender,swagger,obsidian,gitlab,jira,mermaid,markdown,regex,googleappsscript,gimp&titles=true)
-
-<img height="40" width="40" src="https://cdn.simpleicons.org/liquibase">
-> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Gimp, Liquibase
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,maven,postman,unrealengine,blender,swagger,obsidian,gitlab,jira,mermaid,markdown,regex,googleappsscript&titles=true)<img height="50" width="50" src="https://cdn.simpleicons.org/liquibase">
+> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Liquibase
 
 ---
 
