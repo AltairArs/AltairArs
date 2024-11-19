@@ -9,7 +9,7 @@
 # 🔧 Languages
 <!--Языки-->
 [![My Skills](https://skillicons.dev/icons?i=css,html,java,js,py,sass,cs,c,cpp,graphql)](https://skillicons.dev)
-> CSS, HTML, Java, JavaScript, Python, Sass (Less), C#, C, C++, Graphql
+> CSS, HTML, Java, JavaScript, Python, Sass (Less), C#, C, C++, GraphQL
 # 🔧 Databases
 <!--Базы данных-->
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,mysql)](https://skillicons.dev)
@@ -24,12 +24,12 @@
 > Django, Spring Boot, Flutter (Flet on Python)
 # 🔧 Libraries
 <!--Библиотеки-->
-[![My Skills](https://skillicons.dev/icons?i=jquery,selenium)](https://skillicons.dev)
-> JQuery, Selenium (on Python)
+[![My Skills](https://skillicons.dev/icons?i=jquery,selenium,bootstrap)](https://skillicons.dev)
+> JQuery, Selenium (on Python), Bootstrap
 # 🔧 Tools
 <!--Инструменты-->
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,maven,postman,unreal)](https://skillicons.dev)
-> Docker, Git, Github, Maven, Postman, Unreal Engine
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,maven,postman,unreal,blender)](https://skillicons.dev)
+> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender
 
 ---
 
