@@ -25,11 +25,9 @@
 >Intellij Idea, VS Code, Pycharm, Visual Studio
 # 🔧 Frameworks
 <!--Фреймворки-->
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,spring,pygame&titles=true)
-
-<img src="https://github.com/flet-dev/flet/blob/main/media/icons/macos/flet-png/app_icon_64.png" width="64">
-
-> Django, Spring Boot, PyGame, Flet
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,spring,pygame&titles=true)<img src="https://github.com/flet-dev/flet/blob/main/media/icons/macos/flet-png/app_icon_64.png" width="50">
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vuejs&titles=true)
+> Django, Spring Boot, PyGame, Flet, Vue JS
 # 🔧 Libraries
 <!--Библиотеки-->
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jquery,selenium,bootstrap,matplotlib,numpy,hibernate,sqlalchemy&titles=true)
@@ -37,7 +35,8 @@
 # 🔧 Tools
 <!--Инструменты-->
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,maven,postman,unrealengine,blender,swagger,obsidian,gitlab,jira,mermaid,markdown,regex,googleappsscript&titles=true)<img height="50" width="50" src="https://cdn.simpleicons.org/liquibase">
-> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Liquibase
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,vite&titles=true)
+> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Liquibase, Npm, Vite
 
 ---
 
