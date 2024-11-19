@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F7EC00&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ---
+
 # 🔧 Languages
 <!--Языки-->
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,html,java,js,py,sass,cs,c,cpp,assembly,typescript,less&titles=true)
@@ -37,8 +38,7 @@
 <!--Инструменты-->
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,maven,postman,unrealengine,blender,swagger,obsidian,gitlab,jira,mermaid,markdown,regex,googleappsscript,gimp&titles=true)
 
-<img src="https://github.com/liquibase/liquibase/blob/master/Liquibase.png" width="64">
-
+<img height="40" width="40" src="https://cdn.simpleicons.org/liquibase">
 > Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Gimp, Liquibase
 
 ---
