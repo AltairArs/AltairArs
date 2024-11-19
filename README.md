@@ -8,30 +8,38 @@
 ---
 # 🔧 Languages
 <!--Языки-->
-[![My Skills](https://skillicons.dev/icons?i=css,html,java,js,py,sass,cs,c,cpp,graphql)](https://skillicons.dev)
-> CSS, HTML, Java, JavaScript, Python, Sass (Less), C#, C, C++, GraphQL
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,html,java,js,py,sass,cs,c,cpp,assembly,typescript,less&titles=true)
+> CSS, HTML, Java, JavaScript, Python, Sass, C#, C, C++, Assembler, TypeScript, Less
+# 🔧 Requests
+<!-- Методы взаимодействия -->
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=graphql,api&titles=true)
+> GraphQL, REST Api
 # 🔧 Databases
 <!--Базы данных-->
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,mysql)](https://skillicons.dev)
-> MongoDB, PostgreSQL, Redis, SQLite, MySQL
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,sqlite,mysql,oracle&titles=true)
+> MongoDB, PostgreSQL, Redis, SQLite, MySQL, Oracle
 # 🔧 IDEs
 <!--IDE-->
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm,visualstudio)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,pycharm,visualstudio&titles=true)
 >Intellij Idea, VS Code, Pycharm, Visual Studio
 # 🔧 Frameworks
 <!--Фреймворки-->
-[![My Skills](https://skillicons.dev/icons?i=django,spring,flutter)](https://skillicons.dev)
-> Django, Spring Boot, Flutter (Flet on Python)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,spring,pygame&titles=true)
+
+<img src="https://github.com/flet-dev/flet/blob/main/media/icons/macos/flet-png/app_icon_64.png" width="64">
+
+> Django, Spring Boot, PyGame, Flet
 # 🔧 Libraries
 <!--Библиотеки-->
-[![My Skills](https://skillicons.dev/icons?i=jquery,selenium,bootstrap)](https://skillicons.dev)
-> JQuery, Selenium (on Python), Bootstrap
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jquery,selenium,bootstrap,matplotlib,numpy,hibernate,sqlalchemy&titles=true)
+> JQuery, Selenium (on Python), Bootstrap, Matplotlib, Numpy, Hibernate (with Spring), SQL Alchemy
 # 🔧 Tools
 <!--Инструменты-->
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,maven,postman,unreal,blender)](https://skillicons.dev)
-> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender
-### Without icons
-> Swagger, REST, Flet
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,maven,postman,unrealengine,blender,swagger,obsidian,gitlab,jira,mermaid,markdown,regex,googleappsscript,gimp&titles=true)
+
+<img src="https://github.com/liquibase/liquibase/blob/master/Liquibase.png" width="64">
+
+> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Gimp, Liquibase
 
 ---
 
