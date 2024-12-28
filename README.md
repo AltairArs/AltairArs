@@ -127,7 +127,8 @@
 <img height="50" width="50" src="https://cdn.simpleicons.org/liquibase">
 ![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&titles=true)
 ![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite&titles=true)
-> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Liquibase, Npm, Vite
+![Apollo](https://go-skill-icons.vercel.app/api/icons?i=apollo&titles=true)
+> Docker, Git, Github, Maven, Postman, Unreal Engine, Blender, Swagger, Obsidian, Gitlab, Jira, Mermaid, Markdown, Regex, Google Apps Script, Liquibase, Npm, Vite, Apollo
 
 </details>
 
